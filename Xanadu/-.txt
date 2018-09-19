@@ -1,0 +1,21 @@
+================================= CREATING CODEUP-WEB-EXERCISES REPO
+
+On GitHub, do the following...
+
+   1) click on the plus dropdown next to your profile
+   2) click "new repository"
+   3) name the repository "codeup-web-exercises"
+   4) add a description like "For class exercises"
+   5) click "create repository" button (do not change any other inputs)
+   6) on the page for an empty repository, click the first clipboard (ssh version)
+
+In IntelliJ, do the following...
+
+   7) from starting IntelliJ options, select "checkout from version control" dropdown
+   8) choose Git
+   9) paste in the GitHub repo url you copied previously
+  10) click the "clone" button
+  11) click "yes" on the next pop-up
+  12) keep clicking "yes" for each menu window then the final "finish" button
+  13) a new IntelliJ project should automatically open for codeup-web-exercises
+  14) green cup!

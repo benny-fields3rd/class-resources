@@ -1,0 +1,11 @@
+================================= SET UP
+
+Check email and make sure you have joined the Slack channel
+
+
+1) Sign up for GitHub account 
+2) Download IntelliJ IDE 2018 Ultimate Edition (sign up for 30 day trial)
+3) Run set up script: https://github.com/gocodeup/codeup-setup-script
+4) Sign up in our instructor tools app: https://tools.codeup.com/
+5) Check out the curriculum: https://java.codeup.com/
+6) Download Chrome (if you don't have it already)
