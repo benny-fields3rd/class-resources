@@ -1,0 +1,55 @@
+================================= CSS INTRODUCTION
+
+EXPLORE LINKS IN CURRICULUM!!!
+
+-- CSS defined --
+
+  Cascading Style Sheets
+  A styling language developed alongside HTML
+  Important in separating the concerns of content and design
+  Enables styling of every viewable element on a page along with animations (complex animation normally done with JS)
+
+
+
+
+
+
+
+
+
+-- Extra CSS Resources --
+  DevTips YouTube channel
+  CSS-Tricks blog
+  https://coolors.co/f15025-ffffff-e6e8e6-ced0ce-191919
+  https://www.onblastblog.com/css3-cheat-sheet/
+
+
+-- Cool Examples! --
+
+  https://codepen.io/mtorosian/full/KwyrZa
+  https://codepen.io/r4ms3s/pen/gajVBG
+  http://www.rleonardi.com/interactive-resume/
+  http://www.csszengarden.com/
+
+-- Basic Syntax --
+
+    (selector here normally meaning element, class, or id)
+
+    selector {
+        property: value;
+    }
+
+    {this is the declaration block}
+
+
+-- Inline / Embedded / External style sheet --
+
+    Inline   - CSS style written via style attributes on HTML elements (least scalable)
+    Embedded - CSS written in style tags (ok for temporary experimenting)
+    External - CSS written in separate style sheet and linked to the HTML via a link element (best practice)
+
+    External styling is overridden by embedded styling which in turn is overridden by inline styling
+
+
+
+    ***SEE EXAMPLE
